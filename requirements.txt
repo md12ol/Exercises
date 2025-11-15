@@ -1,4 +1,4 @@
-spb
+sympy-plot-backends
 pandas
 plotly
 matplotlib
